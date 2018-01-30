@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foxshark/Naive-Bayes-Budget.git"
+    "url": "git@github.com:foxshark/Naive-Bayes-Budget.git"
   },
   "keywords": [
     "budget",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/foxshark/Naive-Bayes-Budget/issues"
   },
-  "homepage": "https://github.com/foxshark/Naive-Bayes-Budget#readme"
+  "homepage": "https://github.com/foxshark/Naive-Bayes-Budget#readme",
+  "dependencies": {
+    "bayes": "0.0.7",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
 }
