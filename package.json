@@ -1,0 +1,24 @@
+{
+  "name": "ml_finance",
+  "version": "0.0.1",
+  "description": "Naive-Bayes Classifier tool for personal finances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxshark/Naive-Bayes-Budget.git"
+  },
+  "keywords": [
+    "budget",
+    "naive",
+    "bayes"
+  ],
+  "author": "Kyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxshark/Naive-Bayes-Budget/issues"
+  },
+  "homepage": "https://github.com/foxshark/Naive-Bayes-Budget#readme"
+}
